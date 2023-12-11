@@ -1,5 +1,5 @@
 # PRP
-Homepage of ''Get an A in Math: Progressive Rectification Prompting''. 
+Homepage of ''[Get an A in Math: Progressive Rectification Prompting](https://wzy6642.github.io/prp.github.io/)''. 
 
 This website is adapted from [MMMU website](https://mmmu-benchmark.github.io/) and [MathVista](https://mathvista.github.io/).
 
